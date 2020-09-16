@@ -1,7 +1,7 @@
 ## Table of Contents for Reading
 
 - [Class 1: Growth Mindset](growthmindset.md)
-- [Class 2: xxxxx]()
+- [Class 2: The Coder's Computer](coder.md)
 - [Class 3: Revisions in the Cloud](revisions.md)
 - [Class 4: Structure Web Pages with HTML](structure.md)
 
