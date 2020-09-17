@@ -7,6 +7,6 @@ Additionally, you can compare multiple conditions and require that they must all
 
 Taking it a step further, by utilizing loops, you can continually evaluate the conditions over a specified number of iterations. For example:
 
-`for (var i = 0; i < 10; i++) {document.write(i);}>)`
+`for (var i = 0; i < 10; i++) {document.write(i);}`
 
 will return the numbers "0123456789" all in a row. By adding more dynamic conditions, we can get the for loop to continue exercising until we want it to stop.
